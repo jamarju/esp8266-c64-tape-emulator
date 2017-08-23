@@ -58,5 +58,7 @@ Power the NodeMCU either from a PC's USB port (easiest), or from the datasette p
 3. Turn on the NodeMCU
 4. Roland Hermans' PSID64 with one of DRAX's finest tunes, _Caught in the Middle_, will play. Take delight :)
 
+![psid64](img/psid64-drax.png)
+
 Do NOT turn the ESP8266 contraption on before the C64. I don't think the 6510 likes any of its pins driven with its power off.
 
