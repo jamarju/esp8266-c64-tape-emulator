@@ -1,4 +1,4 @@
-# ESP8266C64 datasette emulator
+# ESP8266-based C64 datasette emulator
 
 Yes. An ESP8266-based datasette emulator. For the Commodore 64. In 2017.
 
